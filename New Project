@@ -1,0 +1,37 @@
+# Addition, subtraction
+print(5 + 5)
+print(5 - 5)
+
+# Multiplication, division, modulo, and exponentiation
+print(3 * 5)
+print(10 / 2)
+print(18 % 7)
+print(4 ** 2)
+
+# How much is your $100 worth after 7 years?
+# Addition
+print(5+5)
+#subtraction
+print(5-5)
+# multiplication
+print(3*5)
+# division(10/2)
+# modulo
+print(18%7)
+# exponentiation
+print(4**2)
+print(100*1.1**7)
+
+<script.py> output:
+    10
+    0
+    15
+    5.0
+    4
+    16
+    10
+    0
+    15
+    4
+    16
+    194.87171000000012
